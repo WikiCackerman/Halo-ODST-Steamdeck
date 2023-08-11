@@ -1,0 +1,10 @@
+{
+  "name": "YamatoBGM",
+  "description": "Space Battleship Yamato Medley from YAMATO FESTIVAL",
+  "author": "WikiCackerman",
+  "version": "1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+  "mappings": []
+}
